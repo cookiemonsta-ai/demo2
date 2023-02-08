@@ -1,3 +1,8 @@
+/**
+ * Luokka mallintaa yhtä jääkiekon pelaajaa.
+ * Pelaajalla on nimen ja numeron lisäksi tieto tehdyistä
+ * maaleista ja annetuista syötöistä.
+ */
 public class Pelaaja {
     private String nimi;
     private int pelinumero;
